@@ -19,7 +19,8 @@ public class Flower {
         price = 0;
     }
 
-    public Flower(double sepalLength, FlowerColor color, double price, FlowerType flowerType) {
+    public Flower(double sepalLength, FlowerColor color,
+    double price, FlowerType flowerType) {
         this.sepalLength = sepalLength;
         this.color = color;
         this.price = price;
