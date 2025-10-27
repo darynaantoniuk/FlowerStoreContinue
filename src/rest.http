@@ -1,0 +1,8 @@
+###flowers
+GET http://localhost:8080/flowers
+
+###deliveries
+GET http://localhost:8080/deliveries
+
+###payments
+GET http://localhost:8080/payments
